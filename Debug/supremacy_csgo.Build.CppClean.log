@@ -1,0 +1,157 @@
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\callbacks.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\colorpicker.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\edit.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\gw.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_impl_dx9.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\surface.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\client.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\dropdown.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\events.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_draw.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\knifebot.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\modelrender.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\viewrender.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\chams.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\csgo.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\gui.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_freetype.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\keybind.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\math.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\bonesetup.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\clientdll.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\form.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imenu.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\serversound.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\config.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\grenades.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_demo.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\lagcomp.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\multidropdown.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\shadowmgr.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\visuals.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\checkbox.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\clientstate.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\engine.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\hvh.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_widgets.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\movement.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\prediction.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\button.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\clientmode.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\entry.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\hooks.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_impl_win32.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\matchframework.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\resolver.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\aimbot.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\cvar.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\firebullets.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\js_handler.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\materialsystem.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\renderview.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\wndproc.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\lua_hooks.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\plist.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\skins.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\penetration.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\netdata.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\render.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\netchannel.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\api.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\duktape.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\sha256.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\player.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\imgui_tables.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\clua.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\js_loader.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\shots.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\panel.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\cache.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\pred.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\slider.obj
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\vc143.pdb
+c:\users\dd\desktop\oblivion (skeet) 2018\output\supremacy_csgo.dll
+c:\users\dd\desktop\oblivion (skeet) 2018\debug\supremacy_csgo.ilk
+c:\users\dd\desktop\oblivion (skeet) 2018\output\supremacy_csgo.pdb
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\aimbot.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\api.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\bonesetup.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\button.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\cache.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\callbacks.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\chams.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\checkbox.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\client.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\clientdll.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\clientmode.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\clientstate.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\clua.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\colorpicker.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\config.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\csgo.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\cvar.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\dropdown.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\duktape.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\edit.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\engine.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\entry.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\events.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\firebullets.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\form.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\grenades.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\gui.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\gw.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\hooks.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\hvh.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imenu.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_demo.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_draw.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_freetype.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_impl_dx9.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_impl_win32.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_tables.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\imgui_widgets.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\js_handler.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\js_loader.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\keybind.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\knifebot.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\lagcomp.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\lua_hooks.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\matchframework.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\materialsystem.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\math.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\modelrender.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\movement.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\multidropdown.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\netchannel.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\netdata.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\panel.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\penetration.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\player.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\plist.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\pred.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\prediction.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\render.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\renderview.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\resolver.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\serversound.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\sha256.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\shadowmgr.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\shots.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\skins.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\slider.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\surface.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\viewrender.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\visuals.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\wndproc.obj
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.ilk
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\vc143.idb
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\vc143.pdb
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\cl.10644.write.1.tlog
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\cl.command.1.tlog
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\cl.read.1.tlog
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\link.command.1.tlog
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\link.read.1.tlog
+c:\users\nhayo\onedrive\desktop\gamesense legacy\debug\supremacy_csgo.tlog\link.write.1.tlog
