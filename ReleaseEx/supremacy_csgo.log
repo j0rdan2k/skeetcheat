@@ -1,0 +1,79 @@
+﻿  aimbot.cpp
+  api.cpp
+  bonesetup.cpp
+  button.cpp
+  cache.cpp
+  callbacks.cpp
+  chams.cpp
+  checkbox.cpp
+  client.cpp
+  clientstate.cpp
+  colorpicker.cpp
+  config.cpp
+  duktape.c
+  edit.cpp
+  events.cpp
+  firebullets.cpp
+  gw.cpp
+  imenu.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_freetype.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  js_handler.cpp
+  js_loader.cpp
+  keybind.cpp
+  clua.cpp
+  lua_hooks.cpp
+  matchframework.cpp
+  materialsystem.cpp
+  plist.cpp
+  ServerSound.cpp
+  sha256.cpp
+  shadowmgr.cpp
+  csgo.cpp
+  cvar.cpp
+  modelrender.cpp
+  dropdown.cpp
+  entry.cpp
+  form.cpp
+  grenades.cpp
+  gui.cpp
+  hooks.cpp
+  hvh.cpp
+  engine.cpp
+  knifebot.cpp
+  lagcomp.cpp
+  clientdll.cpp
+  shots.cpp
+  skins.cpp
+  surface.cpp
+  math.cpp
+  movement.cpp
+  multidropdown.cpp
+  netdata.cpp
+  clientmode.cpp
+  panel.cpp
+  penetration.cpp
+  player.cpp
+  pred.cpp
+  netchannel.cpp
+  render.cpp
+  viewrender.cpp
+  resolver.cpp
+  prediction.cpp
+  renderview.cpp
+  slider.cpp
+  visuals.cpp
+  wndproc.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 38942 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+detours.lib(detours.obj) : warning LNK4099: nie znaleziono pliku PDB „detours.pdb” z elementem „detours.lib(detours.obj)” lub w pozycji „C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\output\debug\detours.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+detours.lib(disasm.obj) : warning LNK4099: nie znaleziono pliku PDB „detours.pdb” z elementem „detours.lib(disasm.obj)” lub w pozycji „C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\output\debug\detours.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  supremacy_csgo.vcxproj -> C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\output\debug\supremacy_csgo.dll

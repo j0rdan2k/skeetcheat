@@ -1,0 +1,40 @@
+﻿  aimbot.cpp
+  api.cpp
+  bonesetup.cpp
+  button.cpp
+  cache.cpp
+  callbacks.cpp
+  chams.cpp
+  checkbox.cpp
+  client.cpp
+  clientstate.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego aimbot.cpp)
+  colorpicker.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego chams.cpp)
+  config.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego callbacks.cpp)
+  duktape.c
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego button.cpp)
+  edit.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego bonesetup.cpp)
+  events.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego clientstate.cpp)
+  firebullets.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego checkbox.cpp)
+  gw.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego client.cpp)
+  imenu.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego colorpicker.cpp)
+  imgui.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego config.cpp)
+  imgui_demo.cpp
+  imgui_draw.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego edit.cpp)
+  imgui_freetype.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego firebullets.cpp)
+  imgui_impl_dx9.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego imenu.cpp)
+  imgui_impl_win32.cpp
+C:\Users\nhayo\OneDrive\Desktop\gamesense legacy\includes.h(43,10): fatal  error C1083: Nie można otworzyć pliku dołącz: 'd3dx9.h': No such file or directory (kompilowanie pliku źródłowego events.cpp)
+  imgui_tables.cpp
+  imgui_widgets.cpp
